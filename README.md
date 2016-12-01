@@ -1,11 +1,17 @@
 # OrderTrainsOnline
-Aplikasi ini digunakan untuk memlakukan pemesanan tiket kerata yang dapat dilakukan melalui kota pemberangkatan malang dan surabaya
-https://drive.google.com/drive/u/1/my-drive ini link untuk file apk
-Nama : Rima Anggraini
-Kelas : XII Rpl 4
-No.Absen : 30
-Nis :4423/1321.063
-Nama Sekolah : Smk Telkom Malang
+<h3><b>Aplikasi ini digunakan untuk melakukan pemesanan tiket kerata yang dapat dilakukan melalui kota pemberangkatan malang dan surabaya<b></h3>
+
+<h2><b> Identitas : </b></h2>
+
+<h3><b>Nama : Rima Anggraini</b></h3>
+
+<h3><b>Kelas : XIIR4<b></h3>
+
+<h3><b>No. Urut : 30<b></h3>
+
+<h3><b>NIS : 4423/1321.063</b></h3>
+
+<h3><b>Nama Sekolah : SMK TELKOM MALANG</b></h3>
 
 ![Screnshoot](rima1.JPG)
 ![Screnshoot](rima3.JPG)
