@@ -7,7 +7,7 @@ No.Absen : 30
 Nis :4423/1321.063
 Nama Sekolah : Smk Telkom Malang
 
-![Screnshoot](u.JPG)
-![Screnshoot](a.JPG)
-![Screnshoot](2.JPG)
+![Screnshoot](rima1.JPG)
+![Screnshoot](rima3.JPG)
+![Screnshoot](rima4.JPG)
 
